@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "super_admin",
+    "username": "super_admin",
+    "password": "123",
+    "passportNumber": "AC123",
+    "status": "ACTIVE",
+    "role": "SUPER_ADMIN",
+    "phoneNumber": "123",
+    "branchId": null,
+    "language": "EN",
+    "id": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdBy": "admin",
+    "createdAt": "Dec 8, 2021, 6:12:51 PM",
+    "updatedBy": null,
+    "updatedAt": null,
+    "deleted": 0
+  },
+  {
+    "fullName": "admin",
+    "username": "admin",
+    "password": "123",
+    "passportNumber": "AC123",
+    "status": "ACTIVE",
+    "role": "ADMIN",
+    "phoneNumber": "123",
+    "branchId": null,
+    "language": "EN",
+    "id": "1450227492414900jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdBy": "admin",
+    "createdAt": "Dec 8, 2021, 6:12:51 PM",
+    "updatedBy": null,
+    "updatedAt": null,
+    "deleted": 0
+  }
+]
